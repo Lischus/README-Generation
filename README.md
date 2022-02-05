@@ -1,8 +1,8 @@
-# Project
+# README Generator
 
 ## Description
 
-Description of the project
+This program gives you quick and easy guidelines to help you write up a great README file for your project.
 
 ## Table of Contents
 
@@ -14,25 +14,27 @@ Description of the project
 
 ## Installation
 
-With the button
+You install it through the repositories on github.com/Lischus, clicking on the README-Generation repo, and then performing a git clone
 
 ## Usage
 
-With their computer
+The best use for this project is to make README files
 
 ## Credits
 
 ## License
-    The License we are using is MIT.
+    The License we are using is Boost 1.0.
     
 
 ## Badges
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-Boost 1.0-blue.svg)
 
 ## Tests
 
+To test the project make sure you have all appropriate files downloaded, then in the appropriate terminal you type in node index.js
+
 ## Questions
 
-If you have any questions please email me at martinjcorr2@gmail.com, or follow me on my Github account github.com/Lischus!
+If you have any questions please email me at martinjcorr2@gmail.com, or follow me on my Github account github.com/Lischus to learn more!
 

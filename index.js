@@ -28,6 +28,11 @@ const questions = [
     },
     {
         type: "input",
+        message: "How would one test your project?",
+        name: "test",
+    },
+    {
+        type: "input",
         message: "How should someone use this project?",
         name: "usage",
     },

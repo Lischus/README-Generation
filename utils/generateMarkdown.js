@@ -64,9 +64,11 @@ ${renderLicenseBadge(data.license)}
 
 ## Tests
 
+${data.test}
+
 ## Questions
 
-If you have any questions please email me at ${data.email}, or follow me on my Github account ${data.github}!
+If you have any questions please email me at ${data.email}, or follow me on my Github account ${data.github} to learn more!
 
 `;
 }
