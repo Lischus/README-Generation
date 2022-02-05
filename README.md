@@ -2,37 +2,35 @@
 
 ## Description
 
-This program gives you quick and easy guidelines to help you write up a great README file for your project.
+This project is here to help develop better README files for various different projects.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
+
 - [Questions](#questions)
 
 ## Installation
 
-You install it through the repositories on github.com/Lischus, clicking on the README-Generation repo, and then performing a git clone
+In order to install this project you will have to go to github.com/Lischus, click on the repositories, and once you get to the README-Generation repo you will perform a git clone, and then it will appear on your desktop.
 
 ## Usage
 
-The best use for this project is to make README files
+This project is best used in order to make better README files for whatever project you're working on!
 
 ## Credits
 
-## License
-    The License we are using is Boost 1.0.
-    
+
 
 ## Badges
 
-![License](https://img.shields.io/badge/License-Boost 1.0-blue.svg)
+
 
 ## Tests
 
-To test the project make sure you have all appropriate files downloaded, then in the appropriate terminal you type in node index.js
+In order to make sure the program is working properly you go into the proper terminal window, input 'node index.js' and the questions should appear if everything was done correctly.
 
 ## Questions
 
